@@ -5,3 +5,4 @@
 * Hangman
 * Caesar-Cipher
 * Rock|Paper|Scissors
+* Highest Bidder
