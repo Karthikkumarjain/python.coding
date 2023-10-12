@@ -1,6 +1,6 @@
 # Python Programming
 
-###g The repo contains code snippets for the below:
+### The repo contains code snippets for the below:
 
 * Hangman
 * Caesar-Cipher
