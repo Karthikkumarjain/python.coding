@@ -40,3 +40,6 @@ def start_game():
             return
 
 start_game()
+
+# code to add two numbers in python
+
