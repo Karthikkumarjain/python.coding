@@ -7,4 +7,4 @@
 * Rock|Paper|Scissors
 * Highest Bidder
 * Guess the number
-* Higher-Lower
+* Higher-Lower Follower count
