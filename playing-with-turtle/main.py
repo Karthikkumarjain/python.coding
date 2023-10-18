@@ -3,6 +3,7 @@ import random
 
 timmy = Turtle()
 screen = Screen()
+screen.colormode(255)
 
 timmy.color("red")
 
@@ -25,3 +26,5 @@ for _ in range(100):
     timmy.color(random_colour())
     timmy.forward(30)
     timmy.setheading(random.choice(directios))
+
+screen.exitonclick()
